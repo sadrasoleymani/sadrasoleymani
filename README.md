@@ -2,7 +2,7 @@
 
 <!-- Neon Glow Header with Typing -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadar+;Full-Stack+Developer;Crafting+the+future+one+line+at+a+time+💾🚀" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadr+;Full-Stack+Developer;Crafting+the+future+one+line+at+a+time+💾🚀" 
   alt="Neon Typing" 
 />
 
