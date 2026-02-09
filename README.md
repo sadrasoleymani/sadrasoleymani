@@ -1,10 +1,22 @@
 <div align="center" style="background: linear-gradient(135deg, #0a001f, #1a0033, #0f0c29); padding: 30px 20px; border-radius: 20px; border: 3px solid #00f0ff33; box-shadow: 0 0 30px #00f0ff22; max-width: 900px; margin: auto;">
 
 <!-- Futuristic Neon Typing -->
+<div align="center">
+
+<!-- نسخه ساده و پایدار با فونت پیش‌فرض و متن کوتاه‌تر -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1500&color=00F0FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Hey,+I'm+Sadr+👾;Full-Stack+Neon+Runner;Building+the+Future+with+Code+⚡;Access+Granted+→" 
-  alt="Cyberpunk Typing Header"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadr;Full-Stack+Developer;Neon+Code+Runner+⚡" 
+  alt="Typing SVG Header"
 />
+
+<!-- اگر herokuapp هم کار نکرد، demolab رو تست کن اما با پارامتر کمتر -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadr;Full-Stack+Developer;Neon+Code+Runner+⚡" alt="Typing SVG" /> -->
+
+<br><br>
+
+<!-- بقیه کدت مثل گیف، مهارت‌ها و stats رو اینجا بذار -->
+
+</div>
 
 <!-- Short Cyberpunk Hacking GIF -->
 <img 
