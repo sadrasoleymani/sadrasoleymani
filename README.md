@@ -5,7 +5,7 @@
 
 <!-- نسخه ساده و پایدار با فونت پیش‌فرض و متن کوتاه‌تر -->
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadr;Full-Stack+Developer;Neon+Code+Runner+⚡" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadar;Full-Stack+Developer;Neon+Code+Runner+⚡" 
   alt="Typing SVG Header"
 />
 
