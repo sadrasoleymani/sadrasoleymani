@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing animation header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Sadr+;Full-Stack+Developer+💻;Let's+build+cool+stuff!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey+there!+👋;I'm+Sadar soleymani+;Full-Stack+Developer+💻;Let's+build+cool+stuff!+🚀" alt="Typing SVG" />
 
   <!-- Short & working neon/cyber gif -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Neon coding gif" />
