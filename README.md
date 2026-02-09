@@ -1,73 +1,72 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0a001f, #1a0033, #0f0c29); padding: 30px 20px; border-radius: 20px; border: 3px solid #00f0ff33; box-shadow: 0 0 30px #00f0ff22; max-width: 900px; margin: auto;">
 
-<!-- Neon Glow Header with Typing -->
+<!-- Futuristic Neon Typing -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+👾;I'm+Sadr+;Full-Stack+Developer;Crafting+the+future+one+line+at+a+time+💾🚀" 
-  alt="Neon Typing" 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1500&color=00F0FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;Hey,+I'm+Sadr+👾;Full-Stack+Neon+Runner;Building+the+Future+with+Code+⚡;Access+Granted+→" 
+  alt="Cyberpunk Typing Header"
 />
 
-<!-- Cyberpunk / Neon Coding GIF -->
+<!-- Short Cyberpunk Hacking GIF -->
 <img 
-  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-  width="380" 
-  alt="Cyber coding neon vibe" 
+  src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" 
+  width="320" 
+  alt="Neon Hacker Cyberpunk GIF"
 />
 
-<br/><br/>
+<br><br>
 
-<!-- Skills Section - Neon Style Icons -->
-<h3>🛠️ Tech Stack I Rock With</h3>
-
+<!-- Skills - Modern Icons -->
+<h3 style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">🛠️ Tech Stack</h3>
 <img 
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,figma&theme=dark&perline=6" 
-  alt="Skills Icons" 
+  src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode&theme=dark&perline=8" 
+  alt="Skills"
 />
 
-<br/><br/>
+<br><br>
 
-<!-- Connect Section - Neon Shields -->
-<h3>🌐 Let's Connect in the Matrix</h3>
+<!-- Connect - Neon Glow Shields -->
+<h3 style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">🌐 Connect in the Neon Grid</h3>
 
-<a href="https://si5254.ir" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00F0FF&color=00F0FF" alt="Website" />
+<a href="https://si5254.ir">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&color=00F0FF&logoColor=000" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://t.me/Haj_soly" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-00F0FF?style=for-the-badge&logo=telegram&logoColor=000000" alt="Telegram" />
+<a href="https://t.me/Haj_soly">
+  <img src="https://img.shields.io/badge/Telegram-00F0FF?style=for-the-badge&logo=telegram&logoColor=000" alt="Telegram" />
 </a>
 &nbsp;
-<a href="https://instagram.com/sadra_soleymani1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF00AA" alt="Instagram" />
+<a href="https://instagram.com/sadra_soleymani1">
+  <img src="https://img.shields.io/badge/Instagram-FF00AA?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- GitHub Stats - Radical / Neon Theme -->
+<!-- Stats & Streak - Radical Neon Theme -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=sadrasoleymani&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&count_private=true" 
-  alt="GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=sadrasoleymani&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&border_radius=15" 
+  alt="GitHub Stats"
 />
 
-&nbsp;&nbsp;
+&nbsp;
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=sadrasoleymani&theme=radical&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=ffffff" 
-  alt="Streak Stats" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sadrasoleymani&theme=radical&hide_border=true&background=0d001a&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideNums=ffffff&currStreakLabel=00F0FF&sideLabels=ffffff&dates=ffffff&border_radius=15" 
+  alt="Commit Streak"
 />
 
-<br/><br/>
+<br><br>
 
-<!-- Fun Extra: Currently Building -->
-<h3>🔥 Currently Hacking On</h3>
-<p>
-  <strong>Project-Taban</strong> — Building something awesome with React & Python 🔥
+<!-- Currently Building -->
+<h3 style="color: #00f0ff; text-shadow: 0 0 10px #00f0ff;">🔥 Currently Hacking</h3>
+<p style="color: #e0e0ff; font-size: 1.1em;">
+  <strong>Project-Taban</strong> — React frontend + Python backend. Neon vibes incoming! 🚀
 </p>
 
-<!-- Footer Neon Line -->
-<hr style="border: 1px solid #00F0FF; border-radius: 2px;"/>
+<!-- Neon Divider -->
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00f0ff, transparent); margin: 30px 0;" />
 
-<p align="center">
-  <i>Code. Coffee. Chaos. Repeat. 💙⚡</i>
+<p style="color: #a0a0ff; font-style: italic; font-size: 1.1em;">
+  Code in the shadows. Shine in neon. 💙⚡
 </p>
 
 </div>
